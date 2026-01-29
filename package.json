@@ -21,7 +21,7 @@
     "@actions/github": "5.1.1",
     "@conventional-commits/parser": "0.4.1",
     "conventional-recommended-bump": "6.1.0",
-    "lodash": "4.17.21",
+    "lodash": "4.17.23",
     "semver": "7.3.8"
   },
   "devDependencies": {
